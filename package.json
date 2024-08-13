@@ -4,6 +4,10 @@
   "description": "🚀 Dark VS Code theme inspired by the CODE COLABS web app",
   "version": "0.0.1",
   "publisher": "CODECOLABS",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PNkosi/CODE-COLABS-VS-CODE-THEME.git"
+  },
   "engines": {
     "vscode": "^1.92.0"
   },
