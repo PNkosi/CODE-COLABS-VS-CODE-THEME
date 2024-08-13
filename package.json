@@ -1,0 +1,22 @@
+{
+  "name": "code-colabs-dark",
+  "displayName": "code colabs dark",
+  "description": "🚀 Dark VS Code theme inspired by the CODE COLABS web app",
+  "version": "0.0.1",
+  "publisher": "CODECOLABS",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "CODE COLABS DARK",
+        "uiTheme": "vs-dark",
+        "path": "./themes/CODE COLABS DARK-color-theme.json"
+      }
+    ]
+  }
+}
